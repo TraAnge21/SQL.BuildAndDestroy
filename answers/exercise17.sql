@@ -1,0 +1,3 @@
+UPDATE STUDENTS
+SET CITY = 'Edinburgh'
+WHERE COUNTRY = 'Scotland';
